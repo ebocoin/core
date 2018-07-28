@@ -1,0 +1,9 @@
+Building Ebocoin
+
+See doc/readme-qt.rst for instructions on building Ebocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ebocoin.
+
+See doc/build-*.txt for instructions on building ebocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ebocoin.
