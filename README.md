@@ -5,7 +5,7 @@ Build Status
 https://ebopay.com
 
 What is EBOCOIN?
-Litecoin is an experimental digital currency that enables instant payments to anyone, anywhere in the world. EBOCOIN uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. EBOCOIN Core is the name of open source software which enables the use of this currency.
+EBOCOIN is an experimental digital currency that enables instant payments to anyone, anywhere in the world. EBOCOIN uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. EBOCOIN Core is the name of open source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of the Litecoin Core software, see https://EBOPAY.COM.
 
@@ -19,7 +19,7 @@ The contribution workflow is described in CONTRIBUTING.md.
 
 The developer mailing list should be used to discuss complicated or controversial changes before working on a patch set.
 
-Developer IRC can be found on Freenode at #litecoin-dev.
+Developer IRC can be found on Freenode at #EBOCOIN-dev.
 
 Testing
 Testing and code review is the bottleneck for development; we get more pull requests than we can review and test on short notice. Please be patient and help out by testing other people's pull requests, and remember this is a security-critical project where any mistake might cost people lots of money.
